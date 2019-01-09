@@ -1,0 +1,12 @@
+Enter no of process
+4
+8 4 5 3
+Waiting
+0 3 7 12
+Turn Around
+3 7 12 20 Average Turn around=10.5
+Average waiting time=11
+
+--------------------------------
+Process exited after 10.07 seconds with return value 0
+Press any key to continue . . .
