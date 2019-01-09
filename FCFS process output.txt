@@ -1,0 +1,10 @@
+Enter no of process
+4
+8 4 5 3
+Waiting
+0 3 7 12
+Turn Around
+3 7 12 20
+--------------------------------
+Process exited after 11.08 seconds with return value 0
+Press any key to continue . . .
